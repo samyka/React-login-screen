@@ -18,7 +18,7 @@ Bootstrap your app development by using this awesome react native starter kit, i
     <img src="https://github.com/samyka/React-login-screen/blob/master/Screen-shot/react-native1.png" width="200px"</img>
     <img src="https://github.com/samyka/React-login-screen/blob/master/Screen-shot/react-native2.png" width="200px"</img>
     <img src="https://github.com/samyka/React-login-screen/blob/master/Screen-shot/react-native3.png" width="200px"</img>
-    <img src="https://github.com/samyka/React-login-screen/blob/master/Screen-shot/react-native.png" width="200px"</img>
+    <img src="https://github.com/samyka/React-login-screen/blob/master/Screen-shot/react-native.png" width="600px"</img>
 </div>
 
 ## Google signin
